@@ -2,8 +2,8 @@
 - Tên dự án: Hệ Thống Quản Lý Coffee
   
 - Danh sách thành viên
-  + Lê Thanh Tuyền
-  + Đặng Trường Huy
+  + Lê Thanh Tuyền 
+  + Đặng Trường Huy 
     
 - Bảng phân công nhiệm vụ - Task list (kèm người phụ trách)
   
