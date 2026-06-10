@@ -21,7 +21,7 @@
     database.php: Kết nối CSDL.
 
 - Trình bày công cụ AI mà nhóm sử dụng để code (nếu có)
-  + Gemini (Lên Ý tưởng các chức năng)
+  + Gemini 
   + Deepseek (Giao diện)
 - Những phần/ chức năng tự thực hiện (không có sự can thiệp của AI)
   + Liên kết các trang
